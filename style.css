@@ -1,0 +1,114 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+  background-color: hsl(217, 54%, 11%);
+}
+
+.card {
+  background-color: hsl(216, 50%, 16%);
+  width: 350px;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.crypto-img {
+  margin-bottom: 15px;
+  height: 350px;
+  background: center url("./images/image-equilibrium.jpg");
+  border-radius: 15px;
+  background-size: cover;
+  position: relative;
+}
+
+.crypto-img:hover:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: center no-repeat url("./images/icon-view.svg")
+    rgb(61 239 232 / 50%);
+  cursor: pointer;
+}
+
+.crypto-name {
+  color: hsl(0, 0%, 100%);
+  font-weight: 600px;
+  margin-bottom: 15px;
+}
+
+.crypto-name:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+}
+p {
+  color: hsl(215, 51%, 70%);
+  font-size: 18px;
+}
+
+.crypto-description {
+  margin-bottom: 15px;
+  font-weight: 400;
+}
+.price-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+.price {
+  color: hsl(178, 100%, 50%);
+}
+
+.time {
+  color: hsl(215, 51%, 70%);
+}
+
+.price-box {
+  display: flex;
+  gap: 5px;
+}
+
+.time-box {
+  display: flex;
+  gap: 5px;
+}
+
+.eth-icon {
+  align-self: center;
+}
+.clock-icon {
+  align-self: center;
+}
+.author {
+  border-top: 2px solid hsl(215, 32%, 27%);
+  display: flex;
+  gap: 10px;
+  padding-top: 15px;
+}
+.author-img {
+  border: 2px solid hsl(0, 0%, 100%);
+  border-radius: 100%;
+  align-self: flex-end;
+}
+.author-name {
+  font-size: 17px;
+  font-weight: 400;
+  padding: 5px;
+  color: hsl(215, 51%, 70%);
+}
+
+#author-name {
+  color: hsl(0, 0%, 100%);
+}
+
+#author-name:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+}
