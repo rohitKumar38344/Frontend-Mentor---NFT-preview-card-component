@@ -26,14 +26,19 @@ Users should be able to:
 
 ### Screenshot
 
+**Expected Design**
+
 ![Expected](./design/desktop-design.jpg?raw=true "desktop-design")
 ![Expected](./design/desktop-preview.jpg?raw=true "desktop-preview")
 ![Expected](./design/active-states.jpg?raw=true "active-states")
+
+**Final Output**
+
 ![Final result](./images/layout-screenshot.jpeg?raw=true "Final Output")
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://rohitkumar38344.github.io/)
 
 ## My process
 
@@ -72,7 +77,7 @@ Just want to make it responsive, after learning responsive design.
 
 ## Author
 
-- Frontend Mentor - [@yrohitKumar38344](https://www.frontendmentor.io/profile/rohitKumar38344)
+- Frontend Mentor - [@rohitKumar38344](https://www.frontendmentor.io/profile/rohitKumar38344)
 - Twitter - [@\_iamrohitKumar](https://twitter.com/_iamrohitKumar)
 
 ## Acknowledgments
