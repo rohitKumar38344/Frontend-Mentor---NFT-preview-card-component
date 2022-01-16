@@ -26,7 +26,7 @@ body {
   position: relative;
 }
 
-.crypto-img:hover:before {
+.crypto-img:hover::before {
   content: "";
   position: absolute;
   left: 0;
@@ -35,6 +35,7 @@ body {
   bottom: 0;
   background: center no-repeat url("./images/icon-view.svg")
     rgb(61 239 232 / 50%);
+  border-radius: 15px;
   cursor: pointer;
 }
 
