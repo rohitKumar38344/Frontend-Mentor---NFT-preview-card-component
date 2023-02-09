@@ -28,13 +28,13 @@ Users should be able to:
 
 **Expected Design**
 
-![Expected](./design/desktop-design.jpg?raw=true "desktop-design")
-![Expected](./design/desktop-preview.jpg?raw=true "desktop-preview")
-![Expected](./design/active-states.jpg?raw=true "active-states")
+![Expected](./design/desktop-design.jpg)
+![Expected](./design/desktop-preview.jpg)
+![Expected](./design/active-states.jpg)
 
 **Final Output**
 
-![Final result](./images/layout-screenshot.jpeg?raw=true "Final Output")
+![Final result](./images/layout-screenshot.jpeg)
 
 ### Links
 
