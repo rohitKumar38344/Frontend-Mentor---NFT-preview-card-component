@@ -28,13 +28,13 @@ Users should be able to:
 
 **Expected Design**
 
-![1.](/design/desktop-design.jpg)
-![2.](/design/desktop-preview.jpg)
-![3.](/design/active-states.jpg)
+![1.](../design/desktop-design.jpg)
+![2.](../design/desktop-preview.jpg)
+![3.](../design/active-states.jpg)
 
 **Final Output**
 
-![Final result](/images/layout-screenshot.jpeg)
+![Final result](../images/layout-screenshot.jpeg)
 
 ### Links
 
